@@ -17,6 +17,8 @@ assets\models\base_male_animated.glb
 the examples are in the main directory here
 libsgd\examples\animblend.bb
 
+here we add asset files for future examples
+
 Have fun
 Michael
 
