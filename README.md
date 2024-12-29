@@ -16,10 +16,13 @@ https://www.dropbox.com/scl/fi/8svsybd51q32tm5h8yxhv/Blitz3D-V1.119.zip?rlkey=ke
 
 https://www.dropbox.com/scl/fo/cjkgca8ndwncns6wmvr5e/AAs0A0oDJCuQ-pvzZFfixkM?rlkey=1c5ujd1ygl94krlvf9kmhm3z2&st=gbongfau&dl=0
 
+
+Then you have in the main directory the following folder:
+
 assets\audio\Back_In_Black.ogg
 assets\models\base_male_animated.glb
 
-the examples are in the main directory here
+the examples are in the main directory here, so that the file path of the assets works
 libsgd\examples\animblend.bb
 
 3) If you want to use the old dx7 engine of Blitz3d you can rename the 
