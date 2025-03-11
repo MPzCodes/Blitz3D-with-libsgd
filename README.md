@@ -1,5 +1,13 @@
 # Blitz3D-with-libsgd
-The newest Blitz3D Version with libsgd
+
+
+11.March.2025
+runtime.dll is actualized to 0.18.1
+solved the serialize.bb (for german versions) and the RenderEffect problem im the hdrbloom.bb program
+
+have fun 
+
+The newest Blitz3D Version V1.119 with libsgd
 MPz, 29.dec.2024
 
 Hello to all,
